@@ -1,7 +1,7 @@
 This is a tool for platfrom build external component
 
 # 整体流程
-![process](./examples/process.png)
+![process](https://github.com/htdata-bi/agilebi/blob/master/examples/process.png)
 
 
 # 使用步骤
@@ -46,7 +46,7 @@ installing dependens
 // 开启本地服务进行本地调试开发
 ty serve
 ```
-![ty-server](./examples/ty-serve.png)
+![ty-server](https://github.com/htdata-bi/agilebi/blob/master/examples/ty-serve.png)
 
 ## 3 选择私有npm源(option)
 ```
@@ -86,5 +86,5 @@ ty sync
 ### 这里分两种情况：  
 * （1）没有设置私有npm源的直接上 [npm](https://www.npmjs.com/)根据包名搜索
 * （2）第三步中设置了npm源的，上私有源（根据不同环境地址不一样）根据包名搜索    
-![ty-cnpm](./examples/ty-cnpm.png)
+![ty-cnpm](https://github.com/htdata-bi/agilebi/blob/master/examples/ty-cnpm.png)
 
